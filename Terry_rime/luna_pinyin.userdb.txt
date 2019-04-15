@@ -1,0 +1,1027 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	1231
+#@/user_id	Terry_rime
+a 	啊	c=6 d=3.04397 t=1228
+a 	𥥩	c=1 d=0.389388 t=1228
+a 	𨉚	c=0 d=0.099005 t=1228
+a a zhi 	AA制	c=1 d=0.995012 t=1228
+a mei zu 	阿美族	c=0 d=0.0980199 t=1228
+a mei zu bi 	阿美族比	c=1 d=0.985112 t=1228
+a mu niu 	𥥩母牛	c=2 d=1.97516 t=1228
+a mu niu 	𨉚母牛	c=1 d=0.995012 t=1228
+a mu si 	阿姆斯特朗公理	c=3 d=2.95544 t=1228
+a mu si te lang gong li 	阿姆斯特朗公理	c=1 d=0.99005 t=1228
+a zuo 	啊做	c=1 d=0.970446 t=1228
+ai guo 	愛國	c=0 d=0.097531 t=1228
+ai guo tan bu shang 	愛國談不上	c=1 d=0.980199 t=1228
+an jia 	安家	c=0 d=0.0540641 t=1228
+an jia de 	安家的	c=1 d=0.543351 t=1228
+an ning 	安寧	c=1 d=0.606531 t=1228
+an zhuang 	安裝	c=1 d=0.496585 t=1228
+an zhuang zhi nan 	安裝指南	c=1 d=1.07822 t=1228
+android 	Android	c=1 d=0.995012 t=1228
+ba 	吧	c=0 d=0.0771052 t=1228
+ba wan 	𩖣玩	c=1 d=0.995012 t=1228
+bai ba shi 	百八十	c=0 d=0.00464212 t=1228
+bai du 	百度	c=0 d=0.0790571 t=1228
+bai du kuai zhao 	百度快照	c=1 d=0.794534 t=1228
+bai jia 	百家	c=1 d=0.36816 t=1228
+bai jia hao 	百家號	c=2 d=0.677496 t=1228
+bai zhou 	白晝	c=0 d=0.0965605 t=1228
+bai zhou hei ye 	白晝黑夜	c=1 d=0.970446 t=1228
+ban jiao 	半角	c=1 d=0.99005 t=1228
+ban ling 	斑羚	c=0 d=0.0744532 t=1228
+bao 	包	c=1 d=0.594521 t=1228
+bei fen 	備份	c=2 d=1.55156 t=1231
+bei tang qu 	北塘區	c=1 d=0.453845 t=1228
+bi 	比	c=0 d=0.173598 t=1228
+bi ge 	比格	c=0 d=0.0637628 t=1228
+bi ge quan 	比格犬	c=1 d=0.640824 t=1228
+bi na xie 	比那些	c=6 d=5.00011 t=1228
+bi te 	比特	c=0 d=0.0463013 t=1228
+bi te quan 	比特犬	c=4 d=2.02413 t=1228
+bian bu 	惼不	c=1 d=0.99005 t=1228
+bian bu 	遍佈	c=1 d=1 t=1228
+bian bu 	𣩀不	c=1 d=0.995012 t=1228
+bian jing 	邊境	c=0 d=0.0690734 t=1228
+bian jing mu yang quan 	邊境牧羊犬	c=1 d=0.694197 t=1228
+bian li 	遍歷	c=3 d=1.3088 t=1228
+bian li zi mu lu 	遍歷子目錄	c=1 d=0.56836 t=1228
+bian lie 	編列	c=1 d=0.798516 t=1228
+bian mu 	邊牧	c=1 d=0.690734 t=1228
+bie wu suo qiu 	别无所求	c=1 d=0.995012 t=1228
+bing bu shi 	並不是	c=0 d=0.0909373 t=1228
+bing bu shi wo de shen qi shu ru fa 	並不是我的神奇輸入法	c=1 d=0.913931 t=1228
+bing jia qi 	并驾齐驱	c=1 d=0.995012 t=1228
+bing qie 	並且	c=1 d=1 t=1228
+bo he 	薄荷	c=0 d=0.0960789 t=1228
+bo si mao 	波斯貓	c=2 d=1.99501 t=1228
+bu 	不	c=0 d=0.259528 t=1228
+bu bian 	不變	c=0 d=0.0980199 t=1228
+bu bian cong 	不變從	c=1 d=0.985112 t=1228
+bu cuo 	不錯	c=0 d=0.0794534 t=1228
+bu dai 	不帶	c=1 d=1.03926 t=1228
+bu dai yu ce 	不帶預測	c=1 d=0.932394 t=1228
+bu dou shi 	不都是	c=1 d=0.97531 t=1228
+bu duan 	不斷	c=0 d=0.0786628 t=1228
+bu jing mi yi qi 	不精密儀器	c=1 d=0.873716 t=1228
+bu kao pu 	不靠譜	c=1 d=0.782705 t=1228
+bu kao pu de zi dong shi bie 	不靠譜的自動識別	c=1 d=0.88692 t=1228
+bu luan 	不亂	c=0 d=0.0913931 t=1228
+bu luan ma 	不亂嗎	c=1 d=0.918512 t=1228
+bu quan 	补全	c=0 d=0.0951229 t=1228
+bu sheng cheng 	不生成	c=1 d=0.932394 t=1228
+bu shu 	部署	c=1 d=0.946485 t=1228
+bu ying gai 	不應該	c=0 d=0.0946485 t=1228
+bu ying gai zhe yang zuo 	不應該這樣做	c=1 d=0.951229 t=1228
+bu yong 	不用	c=1 d=1 t=1214
+bu zuo 	不做	c=2 d=1.86042 t=1228
+cai shi 	纔是	c=1 d=0.771052 t=1228
+ce er 	側耳	c=1 d=0.955997 t=1228
+ce shi 	測試	c=12 d=9.05133 t=1228
+ce shi 	𢷾是	c=1 d=1 t=1228
+ce shi shu ru 	測試輸入	c=1 d=0.995012 t=1228
+ce shi xia shu ru fa 	測試下輸入法	c=1 d=0.923116 t=1228
+cha ru 	插入	c=1 d=0.534464 t=1228
+cha ru shu ju 	插入數據	c=1 d=0.479505 t=1228
+cha zhao 	查照	c=2 d=0.861267 t=1228
+chai qian 	拆遷	c=1 d=0.847894 t=1228
+chai quan 	拆犬	c=1 d=0.852144 t=1228
+chai quan 	柴犬	c=2 d=1.75225 t=1228
+chang 	長	c=0 d=0.199002 t=1228
+chang du 	長度	c=5 d=2.92095 t=1228
+che dan ne 	撤但呢	c=1 d=0.97531 t=1228
+chen 	陳	c=2 d=2.20135 t=1228
+chen hong yu 	陳洪玉	c=2 d=1.76059 t=1228
+chen yao hui 	陳耀輝	c=2 d=1.96531 t=1228
+chen yao zu 	陳耀祖	c=2 d=2.01125 t=1228
+cheng 	成	c=2 d=1.99885 t=1228
+cheng gao dao 	成搞到	c=1 d=0.937067 t=1228
+cheng gao ren 	成高人	c=1 d=1 t=1228
+chong fu 	重複	c=1 d=0.491644 t=1228
+chong wu 	寵物	c=1 d=1.02724 t=1228
+chong wu gou 	寵物狗	c=5 d=3.02958 t=1228
+chong wu meng 	寵物萌	c=1 d=1 t=1228
+chong xin 	重新	c=2 d=1.77287 t=1228
+chu 	出	c=0 d=0.0995012 t=1228
+chu ci 	初次	c=1 d=0.99005 t=1228
+chu le ming 	出了名	c=1 d=0.470011 t=1228
+chu shi hua 	初始化	c=4 d=2.86659 t=1228
+chuang jian 	創建	c=2 d=1.03204 t=1228
+chuang yi 	創意	c=1 d=1 t=1228
+chuang zao 	創造	c=0 d=0.197516 t=1228
+chuang zao xin ci 	創造新詞	c=1 d=0.99005 t=1228
+chuang zao xin de ci hui 	創造新的詞彙	c=1 d=0.995012 t=1228
+ci 	詞	c=0 d=0.118971 t=1228
+ci dian 	詞典	c=8 d=4.59228 t=1228
+ci gong neng 	此功能	c=0 d=0.0293758 t=1228
+ci hui 	詞彙	c=1 d=1.02231 t=1228
+ci ku 	詞庫	c=15 d=9.95816 t=1230
+ci yu 	詞語	c=1 d=0.794534 t=1228
+cong 	從	c=0 d=0.0980199 t=1228
+cong tou 	從頭	c=1 d=0.97531 t=1228
+cui ban lu 	催班鲁公后	c=1 d=0.83527 t=1228
+cui niao 	翠鳥	c=1 d=0.425283 t=1228
+cun 	村	c=1 d=0.923116 t=1228
+cun zai 	存在	c=4 d=1.81047 t=1228
+cun zai 	存在主义	c=1 d=0.46031 t=1228
+cuo wu 	錯誤	c=3 d=1.34001 t=1228
+da 	大	c=0 d=0.0965605 t=1228
+da 	打	c=0 d=0.0960789 t=1228
+da ji ba 	大雞巴	c=1 d=0.970446 t=1228
+da ji ba 	打雞巴	c=1 d=0.965605 t=1228
+da jia 	打架	c=0 d=0.0880964 t=1228
+da jiao 	打攪	c=1 d=0.666977 t=1228
+da li 	大力	c=0 d=0.0744532 t=1228
+da li hong yang 	大力弘揚	c=1 d=0.748264 t=1228
+da men 	大門	c=1 d=0.960789 t=1228
+da sheng 	大聲	c=0 d=0.099005 t=1228
+da sheng hou jiao 	大聲吼叫	c=1 d=0.995012 t=1228
+da xing quan 	大型犬	c=2 d=1.03825 t=1228
+da ying 	答應	c=1 d=1 t=1228
+dai 	帶	c=0 d=0.0486752 t=1228
+dai bu dai 	带不带	c=0 d=0.0913931 t=1228
+dai li 	代理	c=1 d=0.985112 t=1228
+dai pian le 	帶偏了	c=1 d=0.489192 t=1228
+dao 	到	c=2 d=1.77896 t=1228
+dao chu 	導出	c=1 d=1 t=1222
+de 	德	c=0 d=0.0932394 t=1228
+de 	的	c=21 d=10.1138 t=1229
+de hua 	的話	c=0 d=0.0955997 t=1228
+de mu 	德牧	c=1 d=0.687289 t=1228
+de mu gou zi 	德牧狗子	c=1 d=0.937067 t=1228
+de shu ru fa 	的輸入法	c=1 d=1.08905 t=1228
+de su cheng fang an 	的速成方案	c=1 d=0.932394 t=1228
+de wo de jia 	的我的家	c=1 d=0.433874 t=1228
+de xiao guo 	的效国	c=1 d=0.927743 t=1228
+di er shi er 	第二十二	c=1 d=1 t=1228
+di xia shi 	地下室	c=0 d=0.0535261 t=1228
+dian yuan 	電源	c=1 d=0.774916 t=1228
+diao 	掉	c=1 d=0.985112 t=1228
+diu ren 	丟人	c=0 d=0.0951229 t=1228
+dong 	動	c=0 d=0.0995012 t=1228
+dong 	炵	c=0 d=0.0995012 t=1228
+dong ben xi 	东奔西跑	c=1 d=0.985112 t=1228
+dong ming zhu 	動明珠	c=1 d=1 t=1228
+dong ming zhu 	炵明珠	c=1 d=1 t=1228
+dong wu 	動物	c=6 d=4.27885 t=1228
+dong wu da jia 	動物打架	c=1 d=0.436049 t=1228
+dong wu shou lie 	動物狩獵	c=1 d=0.778801 t=1228
+dong xi 	東西	c=0 d=0.0980199 t=1228
+dou 	都	c=1 d=0.444858 t=1228
+dou ke yi 	都可以	c=1 d=0.67368 t=1228
+dou shi 	都是	c=0 d=0.0970446 t=1228
+du qu 	讀取	c=2 d=0.99005 t=1228
+du xie 	讀寫	c=2 d=1.34753 t=1228
+du xue 	督學	c=1 d=0.951229 t=1228
+du yi wu er 	獨一無二	c=0 d=0.194575 t=1228
+du yi wu er chang du yi 	獨一無二長度一	c=1 d=0.980199 t=1228
+du yi wu er chang du yi wu er 	獨一無二長獨一無二	c=1 d=1 t=1228
+duan ju 	斷句	c=0 d=0.067032 t=1228
+duo ge 	多個	c=1 d=0.740504 t=1228
+duo le 	多了	c=1 d=0.794534 t=1228
+e 	額	c=0 d=0.0985112 t=1228
+e e 	哦哦	c=0 d=0.0919179 t=1228
+e e e 	額哦哦	c=2 d=0.949578 t=1228
+e e e e e e 	哦哦哦哦哦哦	c=1 d=0.45612 t=1228
+e ren 	惡人	c=0 d=0.0985112 t=1228
+e ren shu 	惡人書	c=1 d=0.99005 t=1228
+e shi wu sui 	額十五歲	c=1 d=0.99005 t=1228
+e xing zhong liu 	惡性腫瘤	c=1 d=0.923116 t=1228
+er 	尒	c=0 d=0.0955997 t=1228
+er 	毦	c=0 d=0.0995012 t=1228
+er 	而	c=0 d=0.099005 t=1228
+er 	鉺	c=0 d=0.0995012 t=1228
+er 	鴯	c=0 d=0.0995012 t=1228
+er ha 	二哈	c=10 d=6.77434 t=1228
+er ju hua 	二句話	c=1 d=0.932394 t=1228
+er liu 	二流	c=0 d=0.0985112 t=1228
+er qian 	𦗼錢	c=1 d=0.965605 t=1228
+er shi 	耳屎	c=1 d=1 t=1228
+er shi jiu 	二十九岁	c=1 d=0.980199 t=1228
+er shi qi 	鴯時期	c=1 d=1 t=1228
+er shi qi ri 	毦十七日	c=1 d=1 t=1228
+er shi wu 	而食物	c=1 d=0.995012 t=1228
+er shi wu sui 	鉺十五歲	c=1 d=1 t=1228
+er wan wu 	尒萬物	c=1 d=0.960789 t=1228
+fa xian 	發現	c=1 d=0.970446 t=1228
+fang an 	方案	c=0 d=0.169541 t=1228
+fang bian 	方便	c=1 d=0.690734 t=1228
+fang bian 	訪遍	c=1 d=0.687289 t=1228
+fang fa 	方法	c=1 d=0.640824 t=1228
+fang shi 	方式	c=0 d=0.0965605 t=1228
+fang wen 	訪問	c=1 d=0.937067 t=1228
+fang zhi 	防止	c=1 d=0.484325 t=1228
+fei 	非	c=0 d=0.0985112 t=1228
+fei guan jian 	非關鍵	c=2 d=1.97516 t=1228
+fei zhou 	非洲	c=0 d=0.0748264 t=1228
+fei zhou ye gou 	非洲野狗	c=2 d=1.51159 t=1228
+fen ci 	分詞	c=4 d=2.36653 t=1228
+fen fen 	棻分	c=1 d=0.985112 t=1228
+fen fen 	𩿈分	c=1 d=0.99005 t=1228
+fen ge 	分割	c=2 d=1.59711 t=1228
+fen si 	分司	c=1 d=0.980199 t=1228
+fu hao 	符號	c=1 d=1 t=1228
+fu jin 	附近	c=1 d=0.701173 t=1228
+fu shi 	腐蝕	c=1 d=1.07871 t=1228
+fu shu 	附屬	c=0 d=0.0980199 t=1228
+fu zhi 	複製	c=4 d=2.76184 t=1228
+gan di 	甘地	c=0 d=0.0995012 t=1228
+gan shen me ne 	幹什麼呢	c=0 d=0.0995012 t=1228
+gao 	高	c=1 d=0.895834 t=1228
+gao dao 	搞到	c=0 d=0.0932394 t=1228
+gao ren 	高人	c=1 d=1.02333 t=1228
+gao xiao lv 	高效率	c=0 d=0.0980199 t=1228
+ge 	個	c=2 d=1.98404 t=1228
+ge shi 	格式	c=2 d=1.92654 t=1228
+ge zi 	鴿子	c=2 d=1.4343 t=1228
+gei 	給	c=2 d=0.664422 t=1228
+gei lie biao 	給列表	c=1 d=0.369723 t=1228
+gen ben jiu 	根本就是	c=0 d=0.179546 t=1228
+geng 	更	c=0 d=0.0980199 t=1228
+geng 	梗	c=0 d=0.0860708 t=1228
+geng duo de 	更多的	c=1 d=0.97531 t=1228
+geng gao xiao lv 	更高效率	c=1 d=0.985112 t=1228
+geng qiang 	更強	c=1 d=0.88692 t=1228
+geng quan 	梗犬	c=1 d=0.891366 t=1228
+gong neng 	功能	c=3 d=0.907777 t=1228
+gong neng zen me yang ne 	功能怎麼樣呢	c=1 d=0.960789 t=1228
+gong xing men 	拱形門	c=1 d=0.657047 t=1228
+gou 	狗	c=12 d=6.66258 t=1228
+gou da jia 	狗打架	c=2 d=0.981918 t=1228
+gou zi 	狗仔	c=1 d=0.965605 t=1228
+gou zi 	狗子	c=13 d=6.46171 t=1228
+gu ding 	固定	c=1 d=0.782705 t=1228
+guan jian 	關鍵	c=1 d=1.09352 t=1228
+guan jian zi 	關鍵字	c=1 d=0.798516 t=1228
+guan zhuang 	官莊	c=1 d=1.1 t=1205
+guang da 	廣大	c=0 d=0.0726149 t=1228
+guang da nv zhi gong 	廣大女職工	c=1 d=0.729789 t=1228
+guo 	過	c=0 d=0.097531 t=1228
+guo da 	過大	c=2 d=2.01182 t=1228
+guo ran shi 	果然是	c=1 d=1.07431 t=1228
+guo ran shi ge shen ji de shu ru fa 	果然是個神級的輸入法	c=1 d=0.995012 t=1228
+ha shi qi 	哈士奇	c=8 d=3.98402 t=1228
+hai 	還	c=0 d=0.0794534 t=1228
+hai bu cuo 	還不錯	c=1 d=0.798516 t=1228
+hai shi 	還是	c=1 d=0.927743 t=1228
+hai shi hen 	還是很	c=0 d=0.0960789 t=1228
+hai shi hen kuai de neng gou 	還是很快的能夠	c=1 d=0.965605 t=1228
+hai xing ba 	還行吧	c=0 d=0.0951229 t=1228
+hai zi 	孩子	c=1 d=0.516851 t=1228
+han shu 	函數	c=2 d=1.4347 t=1228
+han zi 	漢字	c=1 d=0.99005 t=1228
+hang hang 	航行	c=1 d=1.09802 t=1228
+hang hang chu 	航行出	c=1 d=1 t=1228
+hang hang chu zhuang yuan 	行行出狀元	c=2 d=1.97521 t=1228
+hao 	好	c=0 d=0.156578 t=1228
+hao 	號	c=1 d=0.369838 t=1228
+hao li hai de yang zi 	好厲害的樣子	c=4 d=3.63275 t=1228
+he 	和	c=0 d=0.0995012 t=1228
+he bing 	合併	c=1 d=0.642051 t=1228
+he bing duo ge 	合併多個	c=1 d=0.937067 t=1228
+he ji 	合計	c=2 d=1.68312 t=1228
+he li cuo wu 	合理錯誤	c=0 d=0.0852144 t=1228
+he li cuo wu wen yi xia 	合理錯誤問一下	c=1 d=0.856415 t=1228
+he niu bi 	和牛逼	c=1 d=0.802519 t=1228
+he pang 	河旁	c=1 d=0.985112 t=1228
+he xin 	核心	c=0 d=0.0985112 t=1228
+he xin li nian 	核心理念	c=1 d=0.99005 t=1228
+he zi 	盒子	c=2 d=1.91738 t=1228
+hei 	黑	c=0 d=0.0744532 t=1228
+hei ban ling 	黑斑羚	c=2 d=1.51932 t=1228
+hei ye 	黑夜	c=0 d=0.0965605 t=1228
+hen 	很	c=0 d=0.358056 t=1228
+hen cha 	很差	c=1 d=0.70822 t=1228
+hen diu ren de 	很丟人的	c=1 d=0.955997 t=1228
+hen duo de 	很多的	c=0 d=0.0965605 t=1228
+hen gao 	很高	c=0 d=0.1 t=1224
+hen li hai 	很厲害	c=0 d=0.126877 t=1228
+hen li hai de 	很厲害的	c=1 d=0.293758 t=1228
+hen li hai de yang zi 	很厲害的樣子	c=1 d=0.946485 t=1228
+hen li hai ne 	很厲害呢	c=2 d=1.80304 t=1228
+hen tuan jie 	很團結	c=1 d=0.980199 t=1228
+hong yang 	弘揚	c=0 d=0.0744532 t=1228
+hong yu 	洪玉	c=1 d=1.09451 t=1228
+hou 	後	c=4 d=2.75148 t=1228
+hou ge 	猴哥	c=1 d=0.311923 t=1228
+hou hui 	後悔	c=0 d=0.193605 t=1228
+hou hui shi yong xiao lang hao 	後悔使用小狼毫	c=1 d=0.970446 t=1228
+hou jiao 	吼叫	c=0 d=0.099005 t=1228
+hou xu 	後續	c=1 d=0.740818 t=1228
+hou zi 	猴子	c=1 d=0.715338 t=1228
+hu 	乎	c=1 d=0.856415 t=1228
+hu 	胡	c=1 d=0.970446 t=1228
+hua xue 	化學	c=1 d=1.17184 t=1228
+hua xue fu shi 	化學腐蝕	c=1 d=0.99005 t=1228
+hua xue fu shu 	化學附屬	c=1 d=0.985112 t=1228
+huo qu 	獲取	c=2 d=0.762578 t=1228
+ji 	及	c=1 d=0.57695 t=1228
+ji ba 	雞巴	c=0 d=0.192639 t=1228
+ji ben 	基本	c=0 d=0.0918512 t=1228
+ji chu 	基礎	c=1 d=0.733447 t=1228
+ji ci 	幾次	c=1 d=0.932394 t=1228
+ji ge 	幾個	c=1 d=0.918512 t=1228
+ji ji 	積極	c=0 d=0.0733447 t=1228
+ji ji de 	積極的	c=1 d=0.737123 t=1228
+ji ji xiang shang 	積極向上	c=1 d=0.99005 t=1228
+ji ke 	即可	c=2 d=1.8781 t=1228
+ji nan 	濟南	c=1 d=0.882497 t=1228
+ji nan shi 	濟南市	c=1 d=1.19702 t=1210
+ji nan shi shi zhong qu 	濟南市市中區	c=1 d=1.1 t=1207
+ji nan shi shi zhong qu wang guan zhuang jie dao 	濟南市市中區王官莊街道	c=1 d=1 t=1208
+ji nan shi wang guan zhuang 	濟南市王官莊	c=1 d=1 t=1209
+ji nv 	妓女	c=2 d=1.43069 t=1228
+ji nv 	繼女	c=1 d=0.70822 t=1228
+ji suan ji 	計算機	c=1 d=0.980199 t=1228
+ji suan qi 	計算器	c=1 d=0.985112 t=1228
+ji yu 	基於	c=2 d=1.15531 t=1228
+ji yu qiang da de 	基於強大的	c=1 d=0.891366 t=1228
+jia jia 	榎家	c=1 d=1 t=1228
+jia meng dian 	加盟店	c=0 d=0.0970446 t=1228
+jia ru 	加入	c=2 d=1.76812 t=1228
+jia suo 	枷鎖	c=0 d=0.0995012 t=1228
+jia zai 	加載	c=2 d=1.40617 t=1228
+jia zheng pei 	贾政陪	c=1 d=0.99005 t=1228
+jian gong li ye 	建功立業	c=1 d=0.744532 t=1228
+jian li 	建立	c=2 d=1.01975 t=1228
+jian li mo xing 	建立模型	c=1 d=0.759572 t=1228
+jian pan 	鍵盤	c=1 d=0.900325 t=1228
+jian shu 	简书	c=2 d=1.98506 t=1228
+jiang 	將	c=1 d=0.965605 t=1228
+jiao 	交	c=0 d=0.1 t=1228
+jiao nei rong 	交內容	c=1 d=1 t=1228
+jie ba 	結巴	c=7 d=3.86343 t=1228
+jie ba fen ci 	結巴分詞	c=1 d=0.985112 t=1228
+jie dao 	街道	c=0 d=0.1 t=1207
+jie ke 	傑克	c=0 d=0.0860708 t=1228
+jie ke luo su geng 	傑克羅素梗	c=2 d=1.74752 t=1228
+jin gang 	金刚钻	c=2 d=1.81435 t=1228
+jin tian tian qi 	今天天气	c=1 d=0.794534 t=1228
+jin xing 	進行	c=1 d=0.744532 t=1228
+jing jian 	精簡	c=2 d=1.89299 t=1228
+jing mi yi qi 	精密儀器	c=0 d=0.0869358 t=1228
+jing shen 	淨身	c=0 d=0.214546 t=1228
+jing shen 	精神	c=0 d=0.151539 t=1228
+jing shen jia suo 	淨身枷鎖	c=1 d=1 t=1228
+jiu bei 	就被	c=1 d=0.481909 t=1228
+jiu bie 	就別	c=0 d=0.0600496 t=1228
+jiu bie xiang zhe 	就別想着	c=1 d=0.603506 t=1228
+ju qi shou lai 	舉起手來	c=1 d=0.985112 t=1228
+jue dui de 	絕對的	c=1 d=0.726149 t=1228
+kai fa 	開發	c=1 d=0.904837 t=1228
+kai qi 	開啓	c=1 d=0.527292 t=1228
+kai shi 	開始	c=0 d=0.0995012 t=1228
+kao 	烤	c=0 d=0.0980199 t=1228
+kao cha dui yuan 	考察队员	c=1 d=1 t=1228
+kao ji 	考績	c=0 d=0.0980199 t=1228
+kao ji qu 	考績去	c=1 d=0.985112 t=1228
+kao pu 	靠譜	c=0 d=0.0778801 t=1228
+ke fu 	客服	c=0 d=0.0965605 t=1228
+ke ji 	科技	c=1 d=0.980199 t=1228
+ke ji quan 	柯基犬	c=29 d=17.1664 t=1228
+ke lian 	可憐	c=1 d=1.099 t=1228
+ke lian tian xia fu mu xin 	可憐天下父母心	c=1 d=0.995012 t=1228
+ke shi 	可是	c=0 d=0.0465334 t=1228
+ke yi shi xian 	可以實現	c=0 d=0.0918512 t=1228
+ke yi shi xian ji ben 	可以實現基本	c=2 d=1.85086 t=1228
+kong gu 	控股	c=1 d=1 t=1228
+ku fu 	哭副	c=1 d=0.99005 t=1228
+kuai de 	快的	c=0 d=0.0960789 t=1228
+kuai su 	快速	c=1 d=0.726149 t=1228
+kuai zhao 	快照	c=0 d=0.0790571 t=1228
+kui hua bao dian 	葵花宝典	c=1 d=0.873716 t=1228
+kun chong 	昆蟲	c=1 d=0.431711 t=1228
+kun ji qu 	鵾雞曲	c=1 d=0.348192 t=1228
+kuo chong 	擴充	c=1 d=0.995012 t=1228
+la ji 	拉圾	c=0 d=0.180516 t=1228
+la ji shu ru fa 	拉圾輸入法	c=1 d=0.904837 t=1228
+lan ting ji xu 	蘭亭集序	c=1 d=0.970446 t=1228
+lao jiang 	老蔣	c=1 d=0.970446 t=1228
+lao mo 	勞模	c=0 d=0.150028 t=1228
+lao mo jing shen 	勞模淨身	c=1 d=0.752014 t=1228
+lao mo jing shen 	勞模精神	c=1 d=0.755784 t=1228
+le 	了	c=2 d=0.876646 t=1228
+lei wang wang 	淚汪汪	c=1 d=0.995012 t=1228
+li 	裏	c=6 d=2.30087 t=1228
+li hai 	厲害	c=2 d=1.49431 t=1228
+li hai de shu ru fa 	厲害的輸入法	c=2 d=0.650931 t=1228
+li hai le 	厲害了	c=1 d=0.869358 t=1228
+li hai long 	驪海隆	c=1 d=0.995012 t=1228
+li lun 	理論	c=0 d=0.0308819 t=1228
+li nian 	理念	c=0 d=0.291281 t=1228
+li xue 	力學	c=1 d=0.307279 t=1228
+lian xiang 	聯想	c=8 d=4.17221 t=1228
+lian xiang gong neng 	聯想功能	c=1 d=0.951229 t=1228
+lian xiang shu ru fa 	聯想輸入法	c=1 d=0.313486 t=1228
+liang ge zi 	兩個字	c=1 d=0.97531 t=1228
+liang ju hua 	兩句話	c=1 d=0.937067 t=1228
+liang ke zhi jian 	兩可之間	c=2 d=1.99501 t=1228
+liang zi 	量子	c=1 d=0.336628 t=1228
+liang zi li lun 	量子理論	c=1 d=0.310367 t=1228
+liang zi li xue 	量子力學	c=1 d=0.308819 t=1228
+lie bao 	獵豹	c=1 d=0.367879 t=1228
+lie biao 	列表	c=1 d=0.580141 t=1228
+lie quan 	獵犬	c=0 d=0.0591555 t=1228
+lin yin 	林荫大道	c=3 d=2.9216 t=1228
+lin yin 	林蔭	c=1 d=0.99005 t=1228
+lin yin 	瀶因	c=3 d=2.98506 t=1228
+lin yin da 	林荫大道	c=1 d=0.995012 t=1228
+ling hu chong 	令狐沖	c=1 d=0.965605 t=1228
+ling hu chong wei wei 	令狐冲微微	c=2 d=1.75121 t=1228
+ling hu chong wei wei yi xiao 	令狐冲微微一笑	c=1 d=0.852144 t=1228
+ling jin 	阾進	c=1 d=0.995012 t=1228
+ling jin 	领进去	c=1 d=0.980199 t=1228
+ling ti 	靈緹	c=0 d=0.0574072 t=1228
+ling ti 	靈體	c=0 d=0.0571209 t=1228
+ling ti quan 	靈緹犬	c=1 d=0.57695 t=1228
+ling ti quan 	靈體犬	c=1 d=0.574072 t=1228
+ling za mi yan 	凌雜米鹽	c=0 d=0.0980199 t=1228
+liu 	流	c=0 d=0.1 t=1211
+liu lang 	流浪	c=0 d=0.0918512 t=1228
+liu lang dong wu 	流浪動物	c=3 d=1.85086 t=1228
+liu lang mao 	流浪貓	c=2 d=0.947732 t=1228
+lu jing 	路徑	c=0 d=0.0371577 t=1228
+lu jing xia 	路徑下	c=1 d=0.373439 t=1228
+lu lu xu xu 	陸陸續續	c=1 d=0.67032 t=1228
+luan ma 	亂碼	c=1 d=0.923116 t=1228
+lun 	論	c=0 d=0.0960789 t=1228
+luo 	羅	c=1 d=0.99005 t=1228
+luo su 	羅素	c=0 d=0.0860708 t=1228
+ma 	嗎	c=1 d=1.01649 t=1228
+ma ding 	馬丁	c=1 d=1.07822 t=1228
+ma ding ling za mi yan 	馬丁凌雜米鹽	c=1 d=0.985112 t=1228
+ma ma 	媽媽	c=1 d=0.597501 t=1228
+mai xing ren 	霾星人	c=1 d=0.932394 t=1228
+mao 	毛	c=1 d=0.548812 t=1228
+mao 	貓	c=1 d=0.551563 t=1228
+mao mi 	貓咪	c=1 d=1.06265 t=1228
+mao mi he zi 	貓咪盒子	c=3 d=2.93107 t=1228
+mao xian 	冒險	c=0 d=0.099005 t=1228
+mao xian shu ru fa 	冒險輸入法	c=1 d=0.995012 t=1228
+mao yi gong si 	貿易公司	c=1 d=0.995012 t=1228
+mei ji lu 	每基路伯有	c=1 d=0.995012 t=1228
+mei ji lu bo 	每基路伯有	c=1 d=1 t=1228
+mei xiang dao 	沒想到	c=1 d=0.565525 t=1228
+mei you 	沒有	c=3 d=1.13346 t=1228
+men 	們	c=0 d=0.0543351 t=1228
+meng 	萌	c=2 d=1.93194 t=1228
+meng mao 	萌貓	c=4 d=3.64894 t=1228
+meng quan 	猛犬	c=6 d=2.94043 t=1228
+meng shou 	猛獸	c=2 d=1.5307 t=1228
+meng wu 	萌物	c=2 d=1.4201 t=1228
+mi feng 	蜜蜂	c=1 d=0.438235 t=1228
+miao xing ren 	喵星人	c=10 d=6.81405 t=1228
+ming 	明	c=0 d=0.0718924 t=1228
+ming ling 	命令	c=2 d=1.83173 t=1228
+ming tian 	明天	c=0 d=0.0980199 t=1228
+ming yue 	明月	c=1 d=1 t=1211
+ming zhu 	明珠	c=0 d=0.197521 t=1228
+mo ban 	模板	c=2 d=1.86181 t=1228
+mo shi 	模式	c=1 d=0.965605 t=1228
+mo xing 	模型	c=7 d=5.17039 t=1228
+mo xing wen jian 	模型文件	c=1 d=0.344728 t=1228
+mou xie ren 	某些人	c=1 d=0.918512 t=1228
+mu 	牧	c=0 d=0.0932394 t=1228
+mu ban 	模板	c=3 d=2.80011 t=1228
+mu lu 	目錄	c=1 d=0.852144 t=1228
+mu lu yao 	目錄要	c=1 d=0.579842 t=1228
+mu niu 	母牛	c=0 d=0.198012 t=1228
+mu yang quan 	牧羊犬	c=1 d=0.975612 t=1228
+na xie 	那些	c=2 d=2.03396 t=1228
+ne 	呢	c=3 d=2.07647 t=1228
+nei cun 	內存	c=2 d=2.12623 t=1228
+nei cun da 	內存大	c=1 d=1.04516 t=1228
+nei cun xiao hao 	內存消耗	c=3 d=2.93605 t=1228
+nei cun xiao hao guo da 	內存消耗過大	c=3 d=2.70781 t=1228
+nei rong 	內容	c=6 d=4.3047 t=1228
+neng gou 	能夠	c=0 d=0.0960789 t=1228
+ni 	你	c=1 d=1.09656 t=1228
+ni bi 	你比	c=1 d=0.918913 t=1228
+ni bi de 	你比的	c=1 d=0.965605 t=1228
+ni de 	你的	c=1 d=0.985112 t=1228
+ni de shu ru fa zen me yang 	你的輸入法怎麼樣	c=1 d=0.860708 t=1228
+ni hao 	你好	c=16 d=11.1487 t=1228
+ni hao a 	你好啊	c=1 d=1 t=1228
+ni hao gou zi 	你好狗子	c=1 d=0.913931 t=1228
+ni hao ma 	你好嗎	c=1 d=0.346456 t=1228
+ni ke shi 	你可是	c=1 d=0.467666 t=1228
+ni shi shei 	你是誰	c=1 d=0.860708 t=1228
+ni shuo 	你說	c=0 d=0.0995012 t=1228
+ni shuo ne 	你說呢	c=1 d=0.980199 t=1228
+ni shuo niu bi bu niu bi 	你說牛逼不牛逼	c=1 d=1 t=1228
+niu 	牛	c=3 d=2.90664 t=1228
+niu 	𩚖	c=0 d=0.0786628 t=1228
+niu ba 	牛吧	c=1 d=0.995012 t=1228
+niu bi 	杻比	c=1 d=0.843665 t=1228
+niu bi 	牛逼	c=11 d=7.82558 t=1228
+niu bi 	牛逼的	c=3 d=2.95067 t=1228
+niu bi de 	牛逼的	c=6 d=3.38992 t=1228
+niu bi de chuang yi 	牛逼的創意	c=1 d=0.818731 t=1228
+niu bi de shu ru fa 	牛逼的輸入法	c=10 d=5.10742 t=1228
+niu bi de zi dong shu ru fa 	牛逼的自動輸入法	c=1 d=0.856415 t=1228
+niu bi de zi dong yu ce shu ru fa 	牛逼的自動預測輸入法	c=1 d=0.873716 t=1228
+niu bi shu ru fa 	牛逼輸入法	c=1 d=0.985112 t=1228
+niu bu duan 	𩚖不斷	c=1 d=0.790571 t=1228
+nv zhi gong 	女職工	c=0 d=0.0726149 t=1228
+o 	哦	c=1 d=0.414783 t=1228
+o o o 	哦哦哦	c=1 d=0.470011 t=1228
+ou 	偶	c=0 d=0.0995012 t=1228
+pan 	盤	c=2 d=0.88692 t=1228
+pan duan 	判斷	c=3 d=1.06984 t=1228
+pang da 	龐大	c=0 d=0.0960789 t=1228
+pang da de 	龐大的	c=1 d=0.965605 t=1228
+pao qi 	拋棄	c=1 d=0.960789 t=1228
+pian le 	偏了	c=0 d=0.0486752 t=1228
+pin yin 	拼音	c=4 d=3.49759 t=1228
+pin yin tong hong 	拼音通紅	c=1 d=0.869358 t=1228
+qi 	其	c=0 d=0.00464212 t=1228
+qi nei hong 	起內鬨	c=1 d=0.427415 t=1228
+qian hou gong chi 	前後共吃	c=1 d=0.995012 t=1228
+qian jia 	繾家	c=1 d=0.980199 t=1228
+qian jia wan hu 	千家萬戶	c=1 d=0.647265 t=1228
+qian qian 	嵌錢	c=1 d=1 t=1228
+qian qian 	柑錢	c=1 d=1 t=1228
+qiang da 	強大	c=0 d=0.088692 t=1228
+qiang han 	強悍	c=0 d=0.1 t=1227
+qing 	請	c=1 d=0.657047 t=1228
+qing li 	清理	c=1 d=0.603506 t=1228
+qing liang ji 	輕量級	c=2 d=1.99501 t=1217
+qu 	去	c=0 d=0.0980199 t=1228
+qu 	驅	c=1 d=0.99005 t=1228
+quan 	犬	c=0 d=0.287092 t=1228
+quan bu 	全不	c=1 d=0.557106 t=1228
+quan xian 	權限	c=2 d=1.7872 t=1228
+ren 	人	c=1 d=0.946485 t=1228
+ren jia 	人家	c=1 d=0.826959 t=1228
+ren lei 	人類	c=0 d=0.066034 t=1228
+ren lei de 	人類的	c=1 d=0.66365 t=1228
+ren shen 	妊娠	c=1 d=0.937067 t=1228
+ri chang 	日常	c=1 d=1 t=1228
+ri qi 	日期	c=1 d=0.329559 t=1228
+ri qi 	日起	c=1 d=0.327915 t=1228
+rong yi 	容易	c=0 d=0.0477114 t=1228
+rou 	肉	c=0 d=0.0995012 t=1228
+rou ou tian quan xian 	肉偶天全縣	c=1 d=1 t=1228
+ru 	𣽉	c=1 d=1.08167 t=1228
+ru fa 	如發	c=1 d=0.932394 t=1228
+ru guo 	如果	c=1 d=0.542641 t=1228
+ru guo ming tian 	如果明天	c=1 d=0.985112 t=1228
+ru he shi xian 	如何實現	c=1 d=0.951229 t=1228
+ru ke fu 	𣽉客服	c=1 d=0.970446 t=1228
+ruan jian 	軟件	c=2 d=1.01577 t=1228
+san bai 	三百	c=0 d=0.0995012 t=1228
+san shi sui 	三十歲	c=1 d=0.332871 t=1228
+sha seng 	沙僧	c=1 d=0.718924 t=1228
+sha shi 	𧏫是	c=2 d=1.98511 t=1228
+sha shi bi ya 	莎士比亞	c=2 d=1.6997 t=1228
+sha shi jian 	霎時間	c=1 d=0.995012 t=1228
+shan chu 	刪除	c=8 d=6.34983 t=1228
+shang de 	上的	c=1 d=0.341298 t=1228
+shang shu 	上述	c=1 d=0.937067 t=1228
+shao cheng 	燒成	c=1 d=1 t=1228
+shao cheng 	竰成	c=1 d=1 t=1228
+shao kao 	燒烤	c=0 d=0.0995012 t=1228
+shen ji 	神級	c=1 d=1.08411 t=1228
+shen ji shu ru fa 	神級輸入法	c=2 d=1.99005 t=1221
+shen long jian shou bu jian wei 	神龍見首不見尾	c=1 d=0.941765 t=1228
+shen qi 	神奇	c=0 d=0.332584 t=1228
+shen qi de 	神奇的	c=1 d=0.965914 t=1228
+shen qi de shu ru fa 	神奇的輸入法	c=5 d=3.92364 t=1228
+shen ren 	神人	c=1 d=0.97531 t=1228
+shen shou ku nan 	深受苦难	c=1 d=0.946485 t=1228
+sheng 	生	c=0 d=0.00459593 t=1228
+sheng cheng 	生成	c=9 d=3.69286 t=1228
+sheng cheng fang an 	生成方案	c=3 d=2.76037 t=1228
+sheng huo 	生活	c=0 d=0.067368 t=1228
+sheng huo 	𨵥或	c=1 d=1 t=1228
+sheng huo de 	生活的	c=2 d=1.35751 t=1228
+sheng si 	生死关头	c=0 d=0.0726149 t=1228
+sheng si shun jian 	生死关头瞬間	c=1 d=0.729789 t=1228
+sheng xiao 	生效	c=2 d=1.79967 t=1228
+sheng xiong 	聖雄	c=0 d=0.0995012 t=1228
+sheng xiong gan di 	聖雄甘地	c=1 d=1 t=1228
+shi 	是	c=2 d=1 t=1228
+shi bai 	失敗	c=2 d=1.2161 t=1228
+shi bie 	識別	c=0 d=0.0965605 t=1228
+shi bie hen duo de shu ru fang shi 	識別很多的輸入方式	c=1 d=0.970446 t=1228
+shi bu shi 	是不是	c=6 d=4.67293 t=1228
+shi bu shi hen hou hui 	是不是很後悔	c=1 d=0.97531 t=1228
+shi bu shi hen shen qi ne 	是不是很神奇呢	c=1 d=0.865022 t=1228
+shi bu shu 	世不数	c=1 d=0.860708 t=1228
+shi fang chu 	释放出来	c=1 d=1.08905 t=1228
+shi fang chu lai 	釋放出來	c=0 d=0.0995012 t=1228
+shi fang chu lai li nian 	釋放出來理念	c=1 d=1 t=1228
+shi fang chu li nian 	释放出来理念	c=1 d=0.995012 t=1228
+shi fou 	是否是	c=4 d=1.83769 t=1228
+shi fou zai 	是否是在	c=1 d=0.408608 t=1228
+shi hen 	是很	c=0 d=0.1 t=1226
+shi jiu ding 	事就定	c=1 d=0.99005 t=1228
+shi pin dian bo 	視頻點播	c=1 d=0.995012 t=1228
+shi qi 	時期	c=0 d=0.0995012 t=1228
+shi qi ge 	十七個	c=0 d=0.0980199 t=1228
+shi qi ri 	十七日	c=0 d=0.0995012 t=1228
+shi san 	十三	c=1 d=0.995012 t=1228
+shi shui 	是誰	c=1 d=0.358796 t=1228
+shi si ri 	十四日	c=2 d=1.8557 t=1228
+shi wei 	炻爲	c=1 d=1 t=1228
+shi wei 	示威运动	c=1 d=0.99005 t=1228
+shi wu 	食物	c=0 d=0.099005 t=1228
+shi wu sui 	十五歲	c=0 d=0.19459 t=1228
+shi xian 	實現	c=2 d=1.32626 t=1228
+shi xiong 	師兄	c=0 d=0.0882497 t=1228
+shi yi ge 	是一個	c=1 d=1.08737 t=1228
+shi yong 	使用	c=4 d=2.0549 t=1228
+shi zhong qu 	市中區	c=0 d=0.1 t=1206
+shou lie 	狩獵	c=1 d=0.844698 t=1228
+shu 	書	c=3 d=2.16091 t=1228
+shu chu 	輸出	c=0 d=0.0965605 t=1228
+shu chu de you xian ji 	輸出的優先級	c=1 d=0.970446 t=1228
+shu ju 	數據	c=6 d=2.78171 t=1228
+shu ju ku 	數據庫	c=1 d=0.50409 t=1228
+shu ju yu ce 	數據預測	c=2 d=1.99005 t=1228
+shu mu 	數目	c=1 d=1 t=1228
+shu ru 	輸入	c=1 d=1.24877 t=1228
+shu ru ce shi 	輸入測試	c=2 d=1.58568 t=1228
+shu ru fa 	輸入法	c=34 d=15.1954 t=1228
+shu ru fa an zhuang zhi nan 	輸入法安裝指南	c=1 d=0.985112 t=1228
+shu ru fa ce shi 	輸入法測試	c=2 d=1.68488 t=1228
+shu ru fa dai bu dai 	輸入法带不带	c=1 d=0.918512 t=1228
+shu ru fa xin gui ce shi 	輸入法新規測試	c=1 d=0.839457 t=1228
+shu ru fa zi dong yu ce 	輸入法自動預測	c=1 d=0.831104 t=1228
+shu ru su du 	輸入速讀	c=1 d=1.09451 t=1228
+shu ru xiao guo 	輸入筱過	c=1 d=0.980199 t=1228
+shu shu ru fa 	書輸入法	c=1 d=1 t=1220
+shu zu 	數組	c=3 d=1.72599 t=1228
+shui chong zheng yue chu yi 	水冲正月初一	c=1 d=0.932394 t=1228
+shun jian 	瞬間	c=0 d=0.0726149 t=1228
+shuo ne 	說呢	c=0 d=0.097531 t=1228
+si bai 	四百	c=0 d=0.0995012 t=1228
+si shi 	四式	c=0 d=0.0995012 t=1228
+si shi yi nian 	四式一年	c=1 d=1 t=1228
+si suo 	思索	c=0 d=0.0985112 t=1228
+si suo yi nian 	思索一年	c=1 d=0.99005 t=1228
+song shu 	松鼠	c=2 d=1.39542 t=1228
+sou gou 	搜狗	c=1 d=0.980199 t=1228
+sou gou shu ru fa 	搜狗輸入法	c=1 d=0.981848 t=1228
+sou gou shu ru fa zhen shi yi ge la ji 	搜狗輸入法真是一個拉圾	c=1 d=0.909373 t=1228
+sou suo 	搜索	c=1 d=0.960789 t=1228
+su cheng 	速成	c=0 d=0.0960789 t=1228
+su cheng fa 	速成法	c=1 d=0.918512 t=1228
+su cheng fang an 	速成方案	c=1 d=0.965605 t=1228
+su du 	速讀	c=0 d=0.099005 t=1228
+sui ran 	雖然	c=1 d=0.960789 t=1228
+suo dao 	索道	c=0 d=0.097531 t=1228
+suo dao 	蹜到	c=1 d=0.985112 t=1228
+suo dao zhi chu 	索道指出	c=1 d=0.980199 t=1228
+suo lve yu 	縮略語	c=1 d=0.970446 t=1228
+suo you 	所有	c=0 d=0.0582748 t=1228
+suo you de 	所有的	c=1 d=0.585669 t=1228
+suo you wen jian 	所有文件	c=1 d=0.375311 t=1228
+ta bu 	他不	c=1 d=1 t=1228
+tai ji 	太極	c=2 d=1.90305 t=1228
+tai ji tu 	太極圖	c=1 d=0.955997 t=1228
+tan bu shang 	談不上	c=0 d=0.097531 t=1228
+ti 	提	c=2 d=1.84681 t=1228
+ti huan 	替換	c=1 d=0.97531 t=1228
+ti jiao 	體校	c=2 d=0.995012 t=1228
+tian 	天	c=0 d=0.193131 t=1228
+tian jin 	天津	c=0 d=0.0970446 t=1228
+tian jin jia meng dian 	天津加盟店	c=3 d=2.63554 t=1228
+tian qi 	天氣	c=1 d=0.84119 t=1228
+tian qi zen me yang 	天氣怎麼樣	c=2 d=0.859901 t=1228
+tian quan xian 	天全縣	c=0 d=0.0995012 t=1228
+tian xia fu mu xin 	天下父母心	c=0 d=0.099005 t=1228
+tiao chu 	跳出	c=0 d=0.0995012 t=1228
+tiao chu xun huan 	跳出循環	c=1 d=1 t=1228
+tiao qing 	調情	c=1 d=0.810584 t=1228
+tiao shi 	調試	c=1 d=0.529935 t=1228
+ting yong 	停用	c=1 d=0.999401 t=1228
+ting yong ci 	停用詞	c=1 d=0.904837 t=1228
+tong hong 	通紅	c=0 d=0.0865022 t=1228
+tong qu 	同去	c=1 d=0.524663 t=1228
+tong zhi 	通知	c=1 d=0.909373 t=1228
+tuan jie 	團結	c=0 d=0.097531 t=1228
+tui chu 	退出	c=1 d=0.612626 t=1228
+tuo 	拖	c=1 d=0.951229 t=1228
+wa mei 	挖煤	c=0 d=0.00466538 t=1228
+wa mei he 	挖煤和	c=1 d=0.0468877 t=1228
+wai xing ren 	外星人	c=1 d=0.499074 t=1228
+wan bi 	完畢	c=1 d=1 t=1228
+wan cheng 	完成	c=1 d=0.537944 t=1228
+wan er 	玩兒	c=0 d=0.099005 t=1228
+wan wu 	萬物	c=1 d=1.06275 t=1228
+wang 	仼	c=0 d=0.0995012 t=1228
+wang 	王	c=1 d=1.09501 t=1205
+wang 	網	c=0 d=0.0995012 t=1228
+wang dong 	王東	c=0 d=0.0718924 t=1228
+wang dong ming 	王東明	c=2 d=1.44867 t=1228
+wang guan zhuang 	王官莊	c=1 d=1.18955 t=1208
+wang shang 	網上	c=0 d=0.00459593 t=1228
+wang shang sheng 	網上生	c=1 d=0.0461896 t=1228
+wang xing ren 	汪星人	c=9 d=5.82605 t=1228
+wang zhi 	網址	c=0 d=0.00464212 t=1228
+wang zhi wang 	仼指望	c=2 d=1.98012 t=1228
+wang zhi wang 	網址網	c=1 d=0.0466538 t=1228
+wang zhong zi 	網種子	c=3 d=2.94062 t=1228
+wei 	爲	c=0 d=0.0970446 t=1228
+wei lai 	未來	c=0 d=0.0995012 t=1228
+wei nuan xi 	未暖席	c=1 d=0.99005 t=1228
+wei shen me 	爲什麼	c=1 d=0.941765 t=1228
+wei wei yi 	微微一笑	c=2 d=1.68316 t=1228
+wen ben 	文本	c=2 d=1.44125 t=1228
+wen dang 	文檔	c=1 d=0.814647 t=1228
+wen jian 	文件	c=14 d=8.43804 t=1228
+wen jian jia 	文件夾	c=2 d=0.873716 t=1228
+wen yi xia 	問一下	c=0 d=0.0852144 t=1228
+wo 	我	c=0 d=0.0878095 t=1228
+wo bu xiang 	我不想	c=0 d=0.0873716 t=1228
+wo bu xiang shi yong zi dong yu ce 	我不想使用自動預測	c=1 d=0.878095 t=1228
+wo de 	唩的	c=1 d=0.970446 t=1228
+wo de 	我的	c=4 d=2.93954 t=1228
+wo de jia 	我的家	c=0 d=0.0431711 t=1228
+wo de shen qi shu ru fa 	我的神奇輸入法	c=3 d=1.52072 t=1228
+wo de shu ru fa 	我的輸入法	c=5 d=3.8395 t=1228
+wo de shu ru fa hen niu bi 	我的輸入法很牛逼	c=2 d=1.95551 t=1228
+wo de shu ru fa shi bu shi 	我的輸入法是不是	c=2 d=1.86951 t=1228
+wo de shu ru fa shi bu shi hen gao xiao lv ne 	我的輸入法是不是很高效率呢	c=1 d=1 t=1225
+wo de shu ru fa shi bu shi zui qiang han ne 	我的輸入法是不是最強悍呢	c=1 d=1 t=1228
+wo de shu ru fa zhen de shi hen niu bi ne 	我的輸入法真的是很牛逼呢	c=2 d=1.99501 t=1228
+wo de shu ru fa zhen shi hen niu bi ne 	我的輸入法真是很牛逼呢	c=2 d=1.99501 t=1227
+wo shi 	我是	c=1 d=1.17575 t=1228
+wo shi chen yao zu 	我是陳耀祖	c=2 d=1.98506 t=1228
+wo shi ke ji quan 	我是柯基犬	c=1 d=0.97531 t=1228
+wo yao 	我要	c=0 d=0.0995012 t=1228
+wo yao gan shen me ne 	我要幹什麼呢	c=1 d=1 t=1228
+wu 	無	c=0 d=0.0980199 t=1228
+wu di 	無敵	c=0 d=0.0965605 t=1228
+wu di de shu ru fa 	無敵的輸入法	c=1 d=0.970446 t=1228
+wu fen zhi 	五分制	c=1 d=0.99005 t=1228
+wu lin 	武林中	c=1 d=0.941765 t=1228
+wu lin 	武林高手	c=2 d=1.97516 t=1228
+wu lin gao shou 	武林高手	c=1 d=0.980199 t=1228
+wu lun 	無論	c=0 d=0.00461896 t=1228
+wu lun zen yang 	無論怎樣	c=1 d=0.0464212 t=1228
+wu ren neng di 	无人能敌	c=0 d=0.0985112 t=1228
+wu ren neng di de 	无人能敌的	c=1 d=1.1782 t=1228
+wu ren neng di de ne 	无人能敌的呢	c=1 d=1 t=1228
+wu ren neng di de shu ru su du 	无人能敌的輸入速讀	c=1 d=1 t=1228
+wu shi qi ge 	無十七個	c=1 d=0.985112 t=1228
+xi 	螅	c=1 d=0.985112 t=1228
+xi yi suo 	習藝所	c=1 d=0.66365 t=1228
+xi zao 	洗澡	c=0 d=0.0995012 t=1228
+xi zao de fang fa shi 	洗澡的方法是	c=1 d=1 t=1228
+xia 	下	c=5 d=2.0983 t=1228
+xia bo he lun 	下薄荷論	c=1 d=0.965605 t=1228
+xia xing qi 	下星期	c=1 d=0.621885 t=1228
+xia zai 	下載	c=3 d=2.57453 t=1228
+xian 	先	c=0 d=0.0657047 t=1228
+xian mai xian mai 	現買現賣	c=2 d=1.83705 t=1228
+xian shi yong 	先使用	c=1 d=0.66034 t=1228
+xian zai 	現在	c=0 d=0.0951229 t=1228
+xian zai hai xing ba 	現在還行吧	c=1 d=0.955997 t=1228
+xiang 	想	c=0 d=0.0995012 t=1228
+xiang gang da xue 	香港大學	c=0 d=0.0985112 t=1228
+xiang gang da xue xin gui 	香港大學新規	c=2 d=1.98506 t=1228
+xiang mu 	項目	c=0 d=0.182795 t=1228
+xiang mu ce shi 	項目測試	c=1 d=1 t=1228
+xiang wei lai shao 	香味來燒	c=0 d=0.0980199 t=1228
+xiang wei lai shao kao 	想未來燒烤	c=1 d=1 t=1228
+xiang wei lai shao kao 	香味來燒烤	c=1 d=0.985112 t=1228
+xiang zhe 	想着	c=0 d=0.0600496 t=1228
+xiao 	小	c=1 d=1.0792 t=1228
+xiao 	筱	c=0 d=0.097531 t=1228
+xiao ci ku 	小詞庫	c=1 d=0.995012 t=1228
+xiao dong wu 	小動物	c=4 d=2.51318 t=1228
+xiao gou 	小狗	c=1 d=0.618783 t=1228
+xiao guo 	效国	c=0 d=0.0923116 t=1228
+xiao hao 	消耗	c=1 d=1.18474 t=1228
+xiao jia huo 	小傢伙	c=1 d=0.591555 t=1228
+xiao lang hao 	小狼毫	c=9 d=5.23261 t=1228
+xiao lang hao shu ru fa 	小狼毫輸入法	c=1 d=1 t=1213
+xiao lie quan 	小獵犬	c=2 d=1.21952 t=1228
+xiao lv 	效率	c=0 d=0.1 t=1224
+xiao mi feng 	小蜜蜂	c=1 d=0.970446 t=1228
+xiao nai gou 	小奶狗	c=1 d=0.650509 t=1228
+xiao xin 	小心	c=1 d=0.983682 t=1228
+xiao xin xiang mu 	小心項目	c=1 d=0.927743 t=1228
+xiao xing 	小型	c=0 d=0.0625002 t=1228
+xiao xing quan 	小型犬	c=3 d=2.13288 t=1228
+xiao yan jing 	小眼睛	c=1 d=0.343009 t=1228
+xiao ye mao 	小野貓	c=1 d=0.614231 t=1228
+xiao ye mao men 	小野貓們	c=1 d=0.546074 t=1228
+xin ci 	新詞	c=1 d=1.09656 t=1228
+xin de 	新的	c=3 d=3.03003 t=1228
+xin de 	舋的	c=1 d=1 t=1228
+xin de 	訫的	c=1 d=1 t=1228
+xin de 	𦰸的	c=1 d=0.995012 t=1228
+xin gui 	新規	c=0 d=0.209469 t=1228
+xin gui dong xi 	新規東西	c=2 d=1.9802 t=1228
+xiu gai 	修改	c=2 d=0.952893 t=1228
+xiu gai 	修蓋	c=1 d=0.447088 t=1228
+xiu gai zhi 	修改值	c=1 d=0.453845 t=1228
+xiu nan gan 	羞赧感	c=1 d=0.647265 t=1228
+xiu zheng 	修正	c=1 d=1.0531 t=1228
+xiu zheng yi bu fen 	修正一部分	c=1 d=0.985112 t=1228
+xue xi 	學習	c=1 d=0.316637 t=1228
+xun huan 	循環	c=2 d=0.934771 t=1228
+xun lian 	訓練	c=4 d=2.49864 t=1228
+ya bu zhu 	壓不住	c=1 d=0.66034 t=1228
+yang mei tu qi 	揚眉吐氣	c=1 d=0.666977 t=1228
+yang zi 	樣子	c=0 d=0.0778801 t=1228
+yao 	要	c=1 d=0.733447 t=1228
+yao hui 	耀輝	c=0 d=0.097531 t=1228
+yao yi tian hu 	要夷田虎	c=1 d=0.985112 t=1228
+yao you 	要有	c=0 d=0.0786628 t=1228
+yao you you yong 	要有有用	c=2 d=1.77772 t=1228
+yao zu 	耀祖	c=0 d=0.0980199 t=1228
+ye 	也	c=0 d=0.0995012 t=1228
+ye bu 	也不	c=0 d=0.0995012 t=1228
+ye gou 	野狗	c=0 d=0.0748264 t=1228
+ye kai shi 	也開始	c=1 d=1 t=1228
+ye sheng dong wu 	野生動物	c=3 d=1.85566 t=1228
+ye xu 	也許	c=0 d=0.0763379 t=1228
+ye xu zhe yang zuo 	也許這樣做	c=1 d=0.767206 t=1228
+yi 	一	c=0 d=0.324764 t=1228
+yi 	伊	c=0 d=0.00464212 t=1228
+yi ba 	一把	c=0 d=0.0985112 t=1228
+yi ba er liu 	一把二流	c=1 d=0.99005 t=1228
+yi bai ba shi qi 	伊百八十其	c=1 d=0.0466538 t=1228
+yi bai wu shi 	一百五十名	c=1 d=0.99005 t=1228
+yi bu fen 	一部分	c=0 d=0.0980199 t=1228
+yi dai 	羿帶	c=1 d=0.970446 t=1228
+yi ge 	一個	c=3 d=1.84956 t=1228
+yi hou 	以後	c=1 d=0.694197 t=1228
+yi jing 	已經	c=1 d=0.528983 t=1228
+yi jing cun zai 	已經存在主义	c=1 d=0.394554 t=1228
+yi jing yue lai yue 	已經越來越	c=1 d=0.927743 t=1228
+yi jiu 	依舊	c=0 d=0.0965605 t=1228
+yi jiu shi yi ge shen qi de shu ru fa 	依舊是一個神奇的輸入法	c=1 d=0.970446 t=1228
+yi ke 	一刻	c=1 d=0.600496 t=1228
+yi liu 	一流	c=0 d=0.0755784 t=1228
+yi nian 	一年	c=0 d=0.196042 t=1228
+yi qian 	一前	c=0 d=0.099005 t=1228
+yi qian 	一錢	c=0 d=0.0995012 t=1228
+yi qian 	以前	c=0 d=0.0995012 t=1228
+yi qian 	瘞錢	c=0 d=0.097531 t=1228
+yi qian san 	一千三百	c=2 d=1.89771 t=1228
+yi qian san bai 	以前三百	c=1 d=1 t=1228
+yi qian si bai 	一錢四百	c=1 d=1 t=1228
+yi qian tian 	一前天	c=1 d=0.995012 t=1228
+yi qian tian 	瘞錢天	c=1 d=0.980199 t=1228
+yi qiu 	一球	c=1 d=0.818731 t=1228
+yi qiu zhi he 	一丘之貉	c=1 d=0.814647 t=1228
+yi qun 	一羣	c=0 d=0.0585669 t=1228
+yi shang ban 	一上班	c=1 d=0.0478349 t=1228
+yi sheng 	一生一世	c=5 d=3.65794 t=1228
+yi sheng 	笫生	c=1 d=1 t=1228
+yi sheng yi 	一生一世一	c=1 d=1 t=1228
+yi sheng yi shi 	一生一世	c=1 d=0.985112 t=1228
+yi shi 	胰是	c=1 d=1 t=1228
+yi shi 	軼詩	c=1 d=1 t=1228
+yi wan er 	一玩兒	c=1 d=0.995012 t=1228
+yi xia 	以下	c=1 d=0.903586 t=1228
+yi xia wei 	以下爲	c=1 d=0.97531 t=1228
+yi xiao 	一笑	c=1 d=0.928452 t=1228
+yi xiao 	一筱	c=1 d=0.831104 t=1228
+yi yi kan chui lei 	一一堪垂淚	c=1 d=0.0475963 t=1228
+yi yi lie ju 	一一列舉	c=1 d=0.0473589 t=1228
+yi zhu ren gong de jing shen 	一主人公的淨身	c=1 d=0.763379 t=1228
+yin wei 	因爲	c=0 d=0.0878095 t=1228
+yin wei wo 	因爲我	c=0 d=0.0955997 t=1228
+yin wei wo gen ben jiu mei you 	因爲我根本就是沒有	c=1 d=0.960789 t=1228
+yin wei wo gen ben jiu mei you shi yong na xie 	因爲我根本就是沒有使用那些	c=1 d=0.882497 t=1228
+ying ge lan 	英格蘭	c=1 d=0.971187 t=1228
+ying ge lan mu yang quan 	英格蘭牧羊犬	c=1 d=0.891366 t=1228
+ying jing 	應景	c=0 d=0.0927743 t=1228
+ying jing yue lai yue 	應景越來越	c=1 d=0.932394 t=1228
+ying wen 	英文	c=1 d=0.980199 t=1228
+yong bao 	擁抱	c=1 d=0.97531 t=1228
+you 	優	c=0 d=0.0985112 t=1228
+you hua 	優化	c=3 d=1.84644 t=1228
+you mei you 	有沒有	c=1 d=0.704688 t=1228
+you xian 	悠閒	c=0 d=0.0680451 t=1228
+you xian ji 	優先級	c=0 d=0.0965605 t=1228
+you yong 	有用	c=0 d=0.0786628 t=1228
+you zhi bu zai 	優支部在	c=1 d=0.99005 t=1228
+yu ce 	預測	c=6 d=4.68754 t=1228
+yu ce hao 	預測好	c=1 d=0.923116 t=1228
+yu ce shu ru nei rong 	預測輸入內容	c=1 d=0.847894 t=1228
+yu ju 	語句	c=0 d=0.1 t=1211
+yu ju liu 	語句流	c=1 d=1 t=1212
+yu liao 	語料	c=3 d=2.5223 t=1228
+yu liao 	語聊	c=2 d=1.73874 t=1228
+yu ni tong zai 	与你同在	c=1 d=1 t=1228
+yu wo 	與我	c=1 d=0.522046 t=1228
+yue 	岳	c=0 d=0.0873716 t=1228
+yue lai yue 	越來越	c=0 d=0.185086 t=1228
+yue zhang men 	岳掌門	c=2 d=1.76059 t=1228
+zai 	在	c=1 d=0.479818 t=1228
+zai di xia shi 	在地下室	c=1 d=0.537944 t=1228
+zai lai 	再來	c=2 d=1.99501 t=1228
+zai lai 	再来一个	c=1 d=0.995012 t=1228
+zai ru 	載入	c=1 d=0.83527 t=1228
+zao ci 	造詞	c=1 d=0.828171 t=1228
+zao jiu 	早就	c=1 d=0.99005 t=1228
+zen me 	怎麼	c=1 d=0.995012 t=1228
+zen me ban 	怎麼辦	c=2 d=1.94575 t=1228
+zen me xie 	怎麼寫	c=1 d=0.970446 t=1228
+zen me yang 	怎麼樣	c=0 d=0.164699 t=1228
+zen me yang ne 	怎麼樣呢	c=1 d=0.965605 t=1228
+zen me zhe me 	怎麼這麼	c=0 d=0.0477114 t=1228
+zen me zhe me rong yi 	怎麼這麼容易	c=1 d=0.479505 t=1228
+zen yang 	怎樣	c=0 d=0.00461896 t=1228
+zeng liang 	增量	c=1 d=0.748264 t=1228
+zhan jing jing 	戰兢兢	c=1 d=0.99005 t=1228
+zhan yong 	佔用	c=1 d=0.926119 t=1228
+zhan yong nei cun da 	佔用內存大	c=1 d=0.895834 t=1228
+zhang men 	掌門	c=1 d=0.845941 t=1228
+zhang men ren 	掌門人	c=1 d=0.357007 t=1228
+zhang men shi xiong 	掌門師兄	c=1 d=0.88692 t=1228
+zhao 	找	c=1 d=0.433874 t=1228
+zhe cai shi 	這纔是	c=1 d=0.932394 t=1228
+zhe li 	這裏	c=1 d=0.918512 t=1228
+zhe me 	這麼	c=0 d=0.126612 t=1228
+zhe me yi qun 	這麼一羣	c=1 d=0.588605 t=1228
+zhe me you xian 	這麼悠閒	c=1 d=0.683861 t=1228
+zhe yang zi 	這樣子	c=0 d=0.0955997 t=1228
+zhe yang zi de hua 	這樣子的話	c=1 d=0.960789 t=1228
+zhe yang zuo 	這樣做	c=0 d=0.157462 t=1228
+zhe zhong 	這種	c=1 d=0.637628 t=1228
+zhen 	真	c=1 d=0.986318 t=1228
+zhen de 	真的	c=0 d=0.1 t=1226
+zhen shi 	真是	c=0 d=0.1 t=1225
+zhen xiu 	笉修	c=1 d=1 t=1228
+zhen zheng 	真正	c=0 d=0.0932394 t=1228
+zhen zheng de 	真正的	c=2 d=1.69653 t=1228
+zhen zheng de shu ru fa 	真正的輸入法	c=1 d=0.946485 t=1228
+zheng chuang 	爭創	c=0 d=0.0755784 t=1228
+zheng chuang yi liu 	爭創一流	c=1 d=0.759572 t=1228
+zheng kai 	睁开眼睛	c=2 d=1.625 t=1228
+zheng kai 	𩘽開	c=1 d=1 t=1228
+zheng yue chu yi 	正月初一	c=2 d=1.95084 t=1228
+zhi 	值	c=0 d=0.0451581 t=1228
+zhi biao 	製表	c=1 d=0.995012 t=1228
+zhi bu 	支部	c=0 d=0.0985112 t=1228
+zhi chu 	指出	c=0 d=0.097531 t=1228
+zhi hou 	之後	c=1 d=0.99005 t=1228
+zhi hu 	支護	c=1 d=0.831104 t=1228
+zhi hu 	知呼	c=1 d=0.852144 t=1228
+zhi jian 	知渐	c=0 d=0.097531 t=1228
+zhi jian de 	知渐的	c=1 d=0.980199 t=1228
+zhi ling 	指令	c=1 d=1 t=1228
+zhi wang 	指望	c=0 d=0.0995012 t=1228
+zhi yao shi 	只要是	c=1 d=0.657047 t=1228
+zhi yao you 	只要有	c=1 d=0.585669 t=1228
+zhi you 	只有	c=1 d=0.826959 t=1228
+zhi you shi 	只有是	c=1 d=0.65377 t=1228
+zhi you yi ge 	只有一個	c=1 d=0.631284 t=1228
+zhong 	中	c=2 d=0.995012 t=1228
+zhong wen 	中文	c=3 d=2.66139 t=1228
+zhong zi 	種子	c=0 d=0.0995012 t=1228
+zhou 	詶	c=0 d=0.0995012 t=1228
+zhou shan shi 	舟山市	c=1 d=0.99005 t=1228
+zhou ye 	婤也	c=1 d=0.995012 t=1228
+zhou ye bu 	詶也不	c=1 d=1 t=1228
+zhu ren gong 	主人公	c=0 d=0.152295 t=1228
+zhu ren gong de jing shen 	主人公的精神	c=3 d=2.31317 t=1228
+zhu ti 	主題	c=1 d=0.941765 t=1228
+zhu zi 	逐字	c=0 d=0.0995012 t=1228
+zhu zi fen ci 	逐字分詞	c=1 d=1 t=1228
+zhuan 	轉	c=4 d=2.54674 t=1228
+zhui jia 	追加	c=2 d=1.92644 t=1228
+zi 	自	c=0 d=0.0985112 t=1228
+zi ding yi 	自定義	c=1 d=0.995012 t=1228
+zi dong 	自動	c=4 d=3.08872 t=1228
+zi dong bu quan 	自動补全	c=1 d=0.955997 t=1228
+zi dong de 	自動的	c=1 d=0.683861 t=1228
+zi dong duan ju 	自動斷句	c=2 d=1.35074 t=1228
+zi dong shi bie 	自動識別	c=0 d=0.0882497 t=1228
+zi dong zao ci 	自動造詞	c=2 d=0.980199 t=1228
+zi dong zu ci 	自動組詞	c=1 d=0.29671 t=1228
+zi dong zu ci gong neng 	自動組此功能	c=1 d=0.29523 t=1228
+zi fu chuan 	字符串	c=1 d=0.99005 t=1228
+zi gu yi lai 	自古以來	c=1 d=0.99005 t=1228
+zi ji 	自己	c=1 d=0.900325 t=1228
+zi mu lu 	子目錄	c=1 d=0.630624 t=1228
+zi ran fa 	自然法	c=1 d=0.985112 t=1228
+zi ti 	字體	c=1 d=0.932394 t=1228
+zi zao ci 	自造詞	c=3 d=2.98506 t=1228
+zong 	總	c=0 d=0.0548812 t=1228
+zong chang du 	總長度	c=1 d=0.551563 t=1228
+zu 	組	c=0 d=0.0293758 t=1228
+zu ci 	組詞	c=0 d=0.029523 t=1228
+zui 	最	c=0 d=0.1 t=1227
+zui da 	最大	c=0 d=0.1 t=1228
+zui da ci chang 	最大詞長	c=1 d=1 t=1228
+zui hao de 	最好的	c=0 d=0.0771052 t=1228
+zui hao de ba 	最好的吧	c=1 d=0.774916 t=1228
+zui hou 	最後	c=2 d=1.77833 t=1228
+zui kuai 	最快	c=1 d=0.955997 t=1228
+zui kuai de 	最快的	c=1 d=0.946485 t=1228
+zuo 	做	c=1 d=0.99005 t=1228
+zuo lin you she tan shao huo guo 	左鄰右舍碳燒火鍋	c=1 d=0.99005 t=1228
+zuo yu ce 	做預測	c=1 d=0.909373 t=1228

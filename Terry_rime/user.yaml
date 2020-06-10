@@ -3,8 +3,8 @@ var:
     ascii_punct: false
     full_shape: false
     simplification: true
-  previously_selected_schema: luna_pinyin_fluency
+  previously_selected_schema: luna_pinyin_simp
   schema_access_time:
-    luna_pinyin: 1588685835
+    luna_pinyin: 1588687065
     luna_pinyin_fluency: 1588686757
-    luna_pinyin_simp: 1588686751
+    luna_pinyin_simp: 1591452635
